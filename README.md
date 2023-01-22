@@ -1,2 +1,2 @@
 # Title
-Name of project 
+Name of project: gitHub project
